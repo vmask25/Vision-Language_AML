@@ -1,5 +1,5 @@
 # AML 2022/2023 Project - Vision and Language
-Official repository for the "Vision and Language" project - Advanced Machine Learning 2022/2023 @ PoliTo
+Copy repository for the "Vision and Language" project - Advanced Machine Learning 2022/2023 @ PoliTo
 
 ## Getting Started
 Make sure to have a CUDA capable device, supporting at least CUDA 11.1, installed and correctly configured on your system. 
