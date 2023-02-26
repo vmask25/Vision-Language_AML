@@ -1,5 +1,8 @@
 # AML 2022/2023 Project - Vision and Language
 Copy repository for the "Vision and Language" project - Advanced Machine Learning 2022/2023 @ PoliTo
+## Group project with collaborators:
+- [Marco Sacchet] (https://github.com/saccuz)
+- [Andrea Pantuso] (https://github.com/andreap99)
 
 ## Getting Started
 Make sure to have a CUDA capable device, supporting at least CUDA 11.1, installed and correctly configured on your system. 
