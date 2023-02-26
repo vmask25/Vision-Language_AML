@@ -1,6 +1,7 @@
 # AML 2022/2023 Project - Vision and Language
 Copy repository for the "Vision and Language" project - Advanced Machine Learning 2022/2023 @ PoliTo
 ## Group project with collaborators:
+- [Simone Mascali] (https://github.com/vmask25)
 - [Marco Sacchet] (https://github.com/saccuz)
 - [Andrea Pantuso] (https://github.com/andreap99)
 
